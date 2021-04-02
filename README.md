@@ -6,29 +6,35 @@
 #### Languages and Tools:
 <table>
   <tr>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="48" height="48" alt="Android" />
+      </a>
+      <br>Android
+    </td>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Xamarin-logo.svg" width="48" height="48" alt="Xamarin" />
+      </a>
+      <br>Xamarin
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="npm" />
+      </a>
+      <br>C#
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech" >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+      </a>
+      <br>React
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
-      </a>
-      <br>C++&nbsp;(Core)
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
-      </a>
-      <br>React
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
@@ -42,20 +48,38 @@
       </a>
       <br>CSS 3
     </td>
+     <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Figma
+    </td>
+    </tr>
+  <tr>
+    <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++&nbsp;(Core)
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="48" height="48" alt="VScode" />
       </a>
       <br>VScode
     </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="npm" />
-      </a>
-      <br>C#
-    </td>
-  </tr>
-  <tr>
   <td align="center" width="96"> 
       <a href="#macropower-tech" >
         <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
@@ -70,12 +94,6 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" />
-      </a>
-      <br>Django
-    </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
       </a>
       <br>Google Cloud
@@ -86,13 +104,7 @@
       </a>
       <br>Tensorflow
     </td>
-    <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" width="48" height="48" alt="Figma" />
-      </a>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
+   <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Adobe Photoshop" />
       </a>
@@ -124,18 +136,7 @@
       </a>
       <br>Arduino
     </td>
-     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="48" height="48" alt="Android" />
-      </a>
-      <br>Android
-    </td>
-     <td align="center"  width="96">
-      <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Xamarin-logo.svg" width="48" height="48" alt="Xamarin" />
-      </a>
-      <br>Xamarin
-    </td>
+     
   </tr>
 </table>
 
