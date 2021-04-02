@@ -70,15 +70,15 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" width="48" height="48" alt="Pandas" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-original.svg" alt="Django" />
       </a>
-      <br>Pandas
+      <br>Django
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/opencv/opencv/blob/master/samples/data/opencv-logo-white.png" width="48" height="48" alt="OpenCV" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
       </a>
-      <br>OpenCV
+      <br>Google Cloud
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
