@@ -94,9 +94,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/Slack_Technologies_Logo.svg" width="48" height="48" alt="Slack" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Adobe Photoshop" />
       </a>
-      <br>Slack
+      <br>Adobe Photoshop
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
