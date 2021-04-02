@@ -126,9 +126,9 @@
     </td>
      <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" width="48" height="48" alt="Android" />
       </a>
-      <br>Google Cloud
+      <br>Android
     </td>
   </tr>
 </table>
