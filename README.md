@@ -118,8 +118,6 @@
       </a>
       <br>Github
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="48" height="48" alt="Github" />
