@@ -140,18 +140,9 @@
   </tr>
 </table>
 
-#### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [GTK+ 3 Archives Geeks For Geeks](https://www.geeksforgeeks.org/tag/python-gtk/
-)
-- [Methods on NumPy.add()](https://www.geeksforgeeks.org/methods-on-numpy-add/)
-- [Fibonacci Series using Binet Formula](https://www.geeksforgeeks.org/numpy-fibonacci-series-using-binet-formula/)
-- [How to Setup Browsersync for Web Development in Ubuntu?](https://www.geeksforgeeks.org/how-to-setup-browsersync-for-web-development-in-ubuntu/)
-<!-- BLOG-POST-LIST:END -->
 #### Connect with me:
-[<img align="left" alt="amal-chandran-m-v | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="amal-chandran-m-v | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="aswathi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="aswathi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br/>
 
 </details>
@@ -164,5 +155,5 @@
 
 
 
-[linkedin]: https://www.linkedin.com/in/amal-chandran-m-v-14a964179/
-[gmail]:amalchandranktl@gmail.com
+[linkedin]: https://www.linkedin.com/in/aswathigr/
+[gmail]:achuchalavara@gmail.com
