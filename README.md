@@ -1,5 +1,5 @@
 ### Hey! Nice to see you. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#### Self-Taught Programmer, Android Developer, Designer. 
+#### Writer, Designer, Android Developer, Web Developer.
 
 >" I suppose the main reason for my relatively wide range of subjects is that I am naturally curious and easily bored " - Ian Buruma
 
