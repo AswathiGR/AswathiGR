@@ -50,9 +50,9 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" width="48" height="48" alt="npm" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="48" height="48" alt="npm" />
       </a>
-      <br>npm
+      <br>C#
     </td>
   </tr>
   <tr>
