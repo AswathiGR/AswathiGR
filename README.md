@@ -130,6 +130,12 @@
       </a>
       <br>Android
     </td>
+     <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Xamarin-logo.svg" width="48" height="48" alt="Xamarin" />
+      </a>
+      <br>Xamarin
+    </td>
   </tr>
 </table>
 
