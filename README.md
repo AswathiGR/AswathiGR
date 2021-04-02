@@ -124,6 +124,12 @@
       </a>
       <br>Arduino
     </td>
+     <td align="center"  width="96">
+      <a href="#macropower-tech">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="Google Cloud" />
+      </a>
+      <br>Google Cloud
+    </td>
   </tr>
 </table>
 
