@@ -120,7 +120,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-plain.svg" width="48" height="48" alt="Github" />
+        <img src="https://d33wubrfki0l68.cloudfront.net/306f655dcc33cc3d958cab80d78d3f2da427974c/a2bd8/img/logo/svg/full_colored_dark.svg" width="48" height="48" alt="Github" />
       </a>
       <br>Bash
     </td>
