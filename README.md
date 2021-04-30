@@ -114,7 +114,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="48" height="48" alt="Github" />
+        <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="48" height="48" alt="Github" />
       </a>
       <br>Github
     </td>
