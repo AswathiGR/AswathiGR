@@ -14,7 +14,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Xamarin-logo.svg" width="48" height="48" alt="Xamarin" />
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fseeklogo.com%2Fvector-logo%2F274071%2Fxamarin&psig=AOvVaw2bFEyzGzdA952o8abjcb90&ust=1619889889071000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKCXt7z0pfACFQAAAAAdAAAAABAD" width="48" height="48" alt="Xamarin" />
       </a>
       <br>Xamarin
     </td>
