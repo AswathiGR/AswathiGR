@@ -132,7 +132,7 @@
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg" width="48" height="48" alt="Github" />
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Farduino-wallpapers&psig=AOvVaw2dsO4obMx5K6njR6rsLKD7&ust=1619890050683000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCJj18Yn1pfACFQAAAAAdAAAAABAO" width="48" height="48" alt="Github" />
       </a>
       <br>Arduino
     </td>
