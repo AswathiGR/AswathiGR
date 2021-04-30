@@ -1,4 +1,4 @@
-### Hello World!. <img src="https://media.tenor.com/images/b352bb5a70f1aa0346c5cf6def25f6f0/tenor.gif" width="25px">
+### Hello World! <img src="https://media.tenor.com/images/b352bb5a70f1aa0346c5cf6def25f6f0/tenor.gif" width="25px">
 #### Writer, Designer, Android Developer, Web Developer.
 
 >" I suppose the main reason for my relatively wide range of subjects is that I am naturally curious and easily bored " - Ian Buruma
