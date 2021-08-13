@@ -1,4 +1,9 @@
-### Hello World! <img src="https://media.tenor.com/images/b352bb5a70f1aa0346c5cf6def25f6f0/tenor.gif" width="20px">
+<div align="center" width="50">
+
+<img src="https://c.tenor.com/mGgWY8RkgYMAAAAC/hello-world.gif" alt="Welcome!" width="300"/>
+
+</div>
+
 
 
 >"Education is learning what you didn't even know you didn't know"
