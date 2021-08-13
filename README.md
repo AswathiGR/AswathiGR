@@ -7,7 +7,5 @@
 <hr>
 
 #### Connect with me:
-[<img align="center" alt="aswathi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="aswathi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-<br/>
-<hr/>
+<a href="https://in.linkedin.com/in/aswathigr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aswathigr" height="30" width="30" /></a>
+
