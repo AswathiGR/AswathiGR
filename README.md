@@ -6,10 +6,6 @@
 
 
 
->"Education is learning what you didn't even know you didn't know"
-
-
-
 #### Connect with me:
 [<img align="left" alt="aswathi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="aswathi | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
