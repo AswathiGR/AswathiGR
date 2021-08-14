@@ -4,7 +4,7 @@
 
 </div>
 
-<hr>
+
 <div align="center">
 
 #### Connect with me:
@@ -12,7 +12,7 @@
 <a href="mailto:aswathigr2001@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" alt="aswathigr" margin="20" height="30" width="30" /></a>
 
 </div>
-
+<hr>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
