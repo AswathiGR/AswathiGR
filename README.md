@@ -13,7 +13,10 @@
 
 </div>
 
-<b>⚡ Recent GitHub Activity</b></summary>
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/AswathiGR"><img alt="Aswathi's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AswathiGR&custom_title=Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+
+</details>
